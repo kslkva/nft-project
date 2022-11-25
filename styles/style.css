@@ -213,7 +213,7 @@ body {
     margin: 705px 0px 0px 0px;
 }
 .carousel-control-prev-icon {
-    background-image: url(../images/nft-left-arrow.svg),;
+    background-image: url(../images/nft-left-arrow.svg);
 }
 .carousel-control-next-icon {
     background-image: url(../images/nfr-right-arrow.svg);
