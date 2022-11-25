@@ -124,6 +124,7 @@ body {
 }
 
 .col-collect {
+    width: 507px;
     max-width: 507px;
 }
 .col-collect:not(:last-child){
